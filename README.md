@@ -4,8 +4,8 @@ This is a convolutional neural network created with the help of keras and traine
 ## File structure
 - data:
   - train:
-    -cats
-    -dogs
+      -cats
+      -dogs
   - validation:
     -cats
     -dogs
