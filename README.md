@@ -2,12 +2,15 @@
 ## Description
 This is a convolutional neural network created with the help of keras and trained on google collab using 2000 images of dogs and cats.
 ## File structure
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+- data:
+  - train:
+    -cats
+    -dogs
+  - validation:
+    -cats
+    -dogs
 ## Setup
-- Install dependencies.
+- Install dependencies:
   -tensorflow
   -keras
 ### Dataset 
